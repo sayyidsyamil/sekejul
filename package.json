@@ -1,0 +1,9 @@
+{
+  "name": "telegram-gemini-bot",
+  "version": "1.0.0",
+  "main": "api/telegram.js",
+  "type": "module",
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+} 
